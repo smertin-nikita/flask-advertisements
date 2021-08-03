@@ -1,9 +1,6 @@
 name: flask_advertisments
 
-on:
-  push:
-    branches:
-      - master
+on: [ push ]
 
 jobs:
   tests:
