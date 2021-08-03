@@ -38,5 +38,5 @@ jobs:
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
           heroku_app_name: "flask-advertisements"
-          heroku_email: smertin-nikita@mail.ru
+          heroku_email: "smertin-nikita@mail.ru"
           usedocker: true
